@@ -1,5 +1,7 @@
 # AItools
 
+> Possibily replaced by OpenAI mature products.
+
 Focus on application not learning
 
 Principles
@@ -19,7 +21,6 @@ Interesting open-source project of tasks from different fields.
   * ByteTrack 
 * Skeleton
 * Classification
-* Face Recognition
 
 ## Speech
 
@@ -28,7 +29,7 @@ Interesting open-source project of tasks from different fields.
 * Identification
 * Enhancement
 
-## Multi Modal
+## Multi-modal
 
 * Captioning
 * Retrieval
